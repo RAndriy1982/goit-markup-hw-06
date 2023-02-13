@@ -593,7 +593,10 @@ img {
 
 .footer-container {
   display: flex;
-  gap: 120px;
+}
+
+.footer-content-wrap {
+  margin-right: 120px;
 }
 
 .footer-logo {
@@ -630,6 +633,7 @@ img {
 
 .footer-social-wrap {
   width: 208px;
+  margin-right: 80px;
 }
 
 .footer-sc-list {
@@ -671,7 +675,6 @@ img {
 .footer-form-wrap {
   width: 453px;
   height: 80px;
-  margin-left: -40px;
   padding: 0;
 }
 
