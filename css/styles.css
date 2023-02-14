@@ -788,6 +788,7 @@ img {
 }
 
 .modal-field {
+  margin-bottom: 8px;
 }
 
 .modal-field.textaria-field {
@@ -844,7 +845,6 @@ img {
 
 .modal-input-wrap {
   position: relative;
-  margin-bottom: 8px;
 }
 
 .modal-input-icon {
